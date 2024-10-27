@@ -1,4 +1,3 @@
-# whether-api
 # Weather API
 
 A simple weather application that provides the current temperature and weather conditions for a specified location using the OpenWeather API.
